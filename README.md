@@ -2,7 +2,7 @@
 
 <img width="480" height="603" alt="image" src="https://github.com/user-attachments/assets/fcc299b3-574d-44f7-a08c-6c4645ec1717" />
 
-## Example Scenario:
+## Scenario:
 During routine maintenance, the security team is tasked with investigating any VMs in the shared services cluster (handling DNS, Domain Services, DHCP, etc.) that have mistakenly been exposed to the public internet. The goal is to identify any misconfigured VMs and check for potential brute-force login attempts/successes from external sources. Internal shared services device (e.g., a domain controller) is mistakenly exposed to the internet due to misconfiguration.
 
 ---
